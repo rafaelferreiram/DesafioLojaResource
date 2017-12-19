@@ -1,0 +1,18 @@
+## Loja Resource ##
+
+Installation
+
+Step One
+ -  Importar arquivo do projeto na IDE 
+Step Two
+ - Ir no Java Buil Path 
+Step Three
+ - Ir em Libraries
+Step Four
+ - Adicionar os Jars (mysql-connector-java-5.1.45-bin.jar e javax.faces-2.2.9.jar)
+Step Five
+ - Aplicar mudanças feitas no Buil Path
+Step Six
+ - Adicionar projeto ao servidor apache TomCat
+ 
+ 
